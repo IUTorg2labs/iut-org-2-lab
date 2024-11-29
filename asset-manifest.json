@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/IUTorg2labs/static/css/main.e6c13ad2.css",
+    "main.js": "/IUTorg2labs/static/js/main.aab6a44d.js",
+    "static/js/453.5b504819.chunk.js": "/IUTorg2labs/static/js/453.5b504819.chunk.js",
+    "index.html": "/IUTorg2labs/index.html",
+    "main.e6c13ad2.css.map": "/IUTorg2labs/static/css/main.e6c13ad2.css.map",
+    "main.aab6a44d.js.map": "/IUTorg2labs/static/js/main.aab6a44d.js.map",
+    "453.5b504819.chunk.js.map": "/IUTorg2labs/static/js/453.5b504819.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.aab6a44d.js"
+  ]
+}
