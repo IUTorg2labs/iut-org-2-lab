@@ -11,7 +11,7 @@ Iso Amyl Acetate
 * solvent for nitrocellulose, masking undesirable odors.  
 * In the manufacture of acetic acid by direct oxidation of a petroleum-based feedstock, solvent extraction has been used to separate acetic acid from the aqueous reaction liquor containing significant quantities of formic and propionic acids. Isoamyl acetate is used as solvent to extract nearly all the acetic acid, and some water, from the aqueous feed. The extract is then dehydrated by azeotropic distillation using isoamyl acetate as water entrainer.  
 * Used in making smokeless powder, airplane dopes, dry cleaning compounds.  
-* ![A screenshot of a computerDescription automatically generated][image2]  
+* ![A screenshot of a computerDescription automatically generated](../images/image1.png) 
 * Due to its strong smell, which can be perceived already at low concentrations, and because of supposedly low toxicity, /isoamyl acetate/ IAA is used to test the effectiveness of respirators or gas masks.  
 * It is the main component of banana aroma and is, therefore, also used in banana flavors.  
 * Repellent against dogs and cats for ornamental vegetation .... Insecticides and miticides to combat wasps and bees.

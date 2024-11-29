@@ -1,4 +1,4 @@
-IsoAmyl Alcohol
+Iso Amyl Alcohol
 
 * Flavouring  
 * Fragrance  
