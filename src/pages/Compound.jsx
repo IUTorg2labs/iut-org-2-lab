@@ -4,32 +4,30 @@ import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 import '../Compound.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-
-//const compounds = await fetch("./compounds.json").then(r => r.json())
 import compounds from '../compounds.json';
 
 const CompoundDetails = () => {
   const { id } = useParams();
-    const compound = compounds.find((c) => c.id.toString() === id);
-    const [content, setContent] = useState('');
-  
-    useEffect(() => {
-      if (compound) {
-        const markdownFile = `${process.env.PUBLIC_URL}/data/${compound.filename}`;
+  const compound = compounds.find((c) => c.id.toString() === id);
+  const [content, setContent] = useState('');
 
-        fetch(markdownFile)
-          .then((response) => {
-            if (!response.ok) throw new Error('Markdown file not found');
-            return response.text();
-          })
-          .then((text) => setContent(text))
-          .catch((error) => setContent('# Content Not Found'));
-      }
-    }, [compound]);
-  
-    if (!compound) {
-      return <p>Compound not found!</p>;
+  useEffect(() => {
+    if (compound) {
+      const markdownFile = `${process.env.PUBLIC_URL}/data/${compound.filename}`;
+
+      fetch(markdownFile)
+        .then((response) => {
+          if (!response.ok) throw new Error('Markdown file not found');
+          return response.text();
+        })
+        .then((text) => setContent(text))
+        .catch((error) => setContent('# Content Not Found'));
     }
+  }, [compound]);
+
+  if (!compound) {
+    return <p>Compound not found!</p>;
+  }
 
   return (
     <div className="container py-5">
@@ -63,5 +61,3 @@ const CompoundDetails = () => {
 };
 
 export default CompoundDetails;
-
-

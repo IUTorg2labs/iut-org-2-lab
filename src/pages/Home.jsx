@@ -1,10 +1,10 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import compounds from '../compounds.json';
-import '../Home.css';
+import '../Home.css'; // Purple-themed CSS
 
 const Home = () => (
-  <div className="container text-center py-5 ">
+  <div className="container text-center py-5">
     {/* Page Title */}
     <header className="mb-4">
       <h1 className="display-4 fw-bold page-title">Org2Labs Compounds</h1>
@@ -18,9 +18,9 @@ const Home = () => (
             to={`/compound/${compound.id}`}
             className="text-decoration-none"
           >
-            <div className="card h-100 border-primary shadow-sm">
+            <div className="card h-100 shadow-sm">
               <div className="card-body d-flex align-items-center justify-content-center">
-                <h5 className="card-title text-dark fw-bold">
+                <h5 className="card-title">
                   {compound.name}
                 </h5>
               </div>
@@ -32,7 +32,7 @@ const Home = () => (
 
     {/* Footer */}
     <footer className="mt-5">
-      <p className="text-muted">
+      <p>
         <small>
           O**AIsnatcher & AmGhadre &#169; {new Date().getFullYear()}
         </small>
