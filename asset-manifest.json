@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/iut-org-2-lab/static/css/main.79d19d76.css",
-    "main.js": "/iut-org-2-lab/static/js/main.311d296b.js",
+    "main.css": "/iut-org-2-lab/static/css/main.da8a31a8.css",
+    "main.js": "/iut-org-2-lab/static/js/main.01d96bca.js",
     "index.html": "/iut-org-2-lab/index.html",
-    "main.79d19d76.css.map": "/iut-org-2-lab/static/css/main.79d19d76.css.map",
-    "main.311d296b.js.map": "/iut-org-2-lab/static/js/main.311d296b.js.map"
+    "main.da8a31a8.css.map": "/iut-org-2-lab/static/css/main.da8a31a8.css.map",
+    "main.01d96bca.js.map": "/iut-org-2-lab/static/js/main.01d96bca.js.map"
   },
   "entrypoints": [
-    "static/css/main.79d19d76.css",
-    "static/js/main.311d296b.js"
+    "static/css/main.da8a31a8.css",
+    "static/js/main.01d96bca.js"
   ]
 }
