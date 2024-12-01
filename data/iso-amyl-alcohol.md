@@ -13,7 +13,7 @@ Iso Amyl Alcohol
 ### Magnetic susceptibility (χ) −68.96·10−6 cm3/mol
 ### Viscosity   3.692 mPa·s
 
-![isoamylalcohol](../images/isoamylalcohole.png)
+![isoamylalcohol](../images/isoamylalcohol.png)
 
 * Flavouring  
 * Fragrance  
