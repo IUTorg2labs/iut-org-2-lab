@@ -1,0 +1,64 @@
+.card:hover{
+    box-shadow: 8px 8px 8px blue;
+    transform:scale(1.05);
+    z-index:10; 
+}
+
+.card{
+    z-index:0; 
+    transition:.3s;
+}
+/* Style for the page title */
+.page-title {
+    color: #F03366; /* Primary blue */
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+  }
+  
+  /* Style for the list container */
+  .compound-list {
+    list-style-type: none; /* Remove default list bullets */
+    padding: 0;
+    margin: 0;
+  }
+  
+  /* Style for individual list items */
+  .compound-list-item {
+    margin: 10px 0;
+    padding: 10px;
+    background-color: #f8f9fa; /* Light gray background */
+    border: 1px solid #e0e0e0; /* Subtle border */
+    border-radius: 8px; /* Rounded corners */
+    transition: transform 0.2s, box-shadow 0.2s; /* Smooth hover effect */
+  }
+  
+  /* Hover effect for list items */
+  .compound-list-item:hover {
+    background-color: #e7f3ff; /* Light blue background on hover */
+    transform: translateY(-2px); /* Slightly elevate the card */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Add a shadow on hover */
+    cursor: pointer; /* Show pointer cursor */
+  }
+  
+  /* Style for the links inside list items */
+  .compound-link {
+    text-decoration: none; /* Remove underline */
+    color: #0056b3; /* Deep blue */
+    font-size: 1.2rem;
+    font-weight: 500;
+  }
+  
+  /* Hover effect for links */
+  .compound-link:hover {
+    color: #ff6347; /* Change to a vibrant red on hover */
+  }
+  
+  /* Style for the footer */
+  .footer {
+    margin-top: 2rem;
+    color: #6c757d; /* Muted gray */
+    font-size: 0.9rem;
+    text-align: center;
+  }
+  

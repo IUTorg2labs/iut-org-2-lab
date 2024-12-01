@@ -1,5 +1,15 @@
 2-Naphthol  
 
+### vapor density. 4.97 (vs air)
+### vapor pressure. 10 mmHg ( 145.5 °C)
+### Assay. 99%
+### form. powder or flakes.
+### bp. 285-286 °C (lit.)
+### mp. 120-122 °C (lit.)
+### solubility. methanol: soluble 1 g/10 mL, clear, colorless to light yellow.
+
+![2-naphtol molecule](../images/2-naphtol.png)
+
 * hair dyeing  
 * intermediate substance in pigment production  
 * perfuming  

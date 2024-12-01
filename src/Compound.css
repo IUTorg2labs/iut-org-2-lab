@@ -1,0 +1,45 @@
+/* CompoundDetails.css */
+.color-title {
+  color: #F03366;
+}
+/* Markdown Styling */
+.markdown-content h1, .markdown-content h2 {
+    color: #003366;
+    margin-bottom: 1em;
+    border-bottom: 2px solid #0056b3;
+    padding-bottom: 0.2em;
+  }
+  
+  .markdown-content p {
+    font-size: 1.2em;
+    line-height: 1.8;
+    color: #333;
+  }
+  
+  .markdown-content img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 20px auto;
+    border: 2px solid #ddd;
+    border-radius: 10px;
+  }
+  
+  .markdown-content table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+  }
+  
+  .markdown-content table th,
+  .markdown-content table td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: left;
+  }
+  
+  .markdown-content table th {
+    background-color: #f8f9fa;
+    font-weight: bold;
+  }
+  

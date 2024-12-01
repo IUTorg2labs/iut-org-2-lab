@@ -1,5 +1,17 @@
 Phthalic anhydride
 
+### Molar mass  148.1 g/mol
+### Appearance  white flakes
+### Odor    characteristic, acrid[2]
+### Density 1.53 g/cm3, solid; 1.20 g/mL, molten[2]
+### Melting point   131.6 °C (268.9 °F; 404.8 K)
+### Boiling point   295 °C (563 °F; 568 K) sublimates
+### Solubility in water 0.62 g/100g (20—25 °C);19.0 g/100g (100 °C);reacts slowly
+### Vapor pressure  0.0015 mmHg (20 °C)[2]
+### Magnetic susceptibility (χ) −67.31×10−6 cm3/mol
+
+![phthalicanhydride](../images/phthalicanhydride.png)
+
 * Personal care \-\> nails \-\> nail polish  
 * Pigment  
 * Ion exchange agent  

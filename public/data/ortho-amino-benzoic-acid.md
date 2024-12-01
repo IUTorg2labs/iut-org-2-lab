@@ -1,5 +1,15 @@
 Ortho Amino Benzoic Acid (Anthranilic acid)
  
+### Density  1.383 g/cm3 (23 °C)
+### Flash point 150 °C
+### Ignition temperature  >530 °C
+### Melting Point 145 °C
+### Vapor pressure  0.001 hPa (52.6 °C)
+### Bulk density  500 kg/m3
+### Solubility  4.5 g/l
+
+![anthranilicacid](../images/anthranilicacid.png)
+ 
 * Dyes  
 * Intermediate  
 * Pigments  

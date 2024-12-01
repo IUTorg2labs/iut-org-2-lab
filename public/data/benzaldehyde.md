@@ -1,19 +1,43 @@
 Benzaldehyde
 
+### Chemical formula    C7H6O
+### Molar mass  106.124 g·mol−1
+### Appearance  colorless liquid
+### strongly refractive
+### Odor:    almond-like
+### Density: 1.044 g/mL, liquid
+### Melting point:  −57.12 °C (−70.82 °F; 216.03 K)
+### Boiling point:   178.1 °C (352.6 °F; 451.2 K)
+### Solubility in water: 6.95 g/L (25 °C)
+
+![benzaldehyde molecule](../images/benzaldehyde.png)
+
 | Cleaning products and household care \-\> air freshener |
-| :---- |
+
 | Home maintenance \-\> degreaser |
+
 | Personal care \-\> make-up and related |
+
 | Personal care \-\> make-up and related \-\> lip gloss |
+
 | Vehicle \-\> car interior \-\> auto air freshener |
+
 | denaturant |
+
 | finish |
+
 | flavoring agent |
+
 | flavoring and nutrient |
+
 | flavouring |
+
 | fragrance ingredient |
+
 | masking |
+
 | perfuming |
+
 | solvent |
 
 * Used as a chemical intermediate and a solvent for resins and oils; \[HSDB\] Used as a flavoring agent in food and perfume additive (FDA-approved)  

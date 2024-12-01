@@ -1,15 +1,38 @@
 Adipic Acid
 
+### Chemical formula    C6H10O4
+### Molar mass  146.142 g·mol−1
+### Appearance:  White crystals ; Monoclinic prisms
+### Odor:   Odorless
+### Density 1.360 g/cm3
+### Melting point   152.1 °C (305.8 °F; 425.2 K)
+### Boiling point   337.5 °C (639.5 °F; 610.6 K)
+### Solubility in water 14 g/L (10 °C), 24 g/L (25 °C), 1600 g/L (100 °C)
+### Solubility:  Very soluble in methanol, ethanol ; soluble in acetone, acetic acid ; slightly soluble in cyclohexane ; negligible in benzene, petroleum ether
+### Vapor pressure:  0.097 hPa (18.5 °C) = 0.073 mmHg
+### Acidity (pKa):   4.43, 5.41
+### Conjugate base:  Adipate
+
+![adipic acid molecule](../images/adipicacidmolecule.png)
+
 | Arts and crafts/office supplies \-\> children's art and toys \-\> crayons |
-| :---- |
+
 | Personal care \-\> facial cleansing and moisturizing \-\> face mask |
+
 | Personal care \-\> hair styling and care \-\> hair conditioner |
+
 | Personal care \-\> hair styling and care \-\> hair spray |
+
 | Personal care \-\> hair styling and care \-\> shampoo |
+
 | Personal care \-\> make-up and related \-\> eye liner |
+
 | Personal care \-\> make-up and related \-\> foundation/concealer |
+
 | Personal care \-\> make-up and related \-\> lip balm |
+
 | Personal care \-\> sunscreen |
+
 | Raw materials |
 | backing |
 | buffering |
