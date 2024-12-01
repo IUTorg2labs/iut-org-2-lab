@@ -1,11 +1,13 @@
 import React from 'react';
+import { Routes, Route } from 'react-router-dom';
+import Home from './pages/Home';
+import Compound from './pages/Compound';
 
-function App() {
-  return (
-    <div style={{ textAlign: 'center', marginTop: '20%' }}>
-      <h1>Hello, World!</h1>
-    </div>
-  );
-}
+const App = () => (
+  <Routes>
+    <Route path="/" element={<Home />} />
+    <Route path="/compound/:id" element={<Compound />} />
+  </Routes>
+);
 
 export default App;
