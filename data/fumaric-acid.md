@@ -1,5 +1,20 @@
 Fumaric Acid
 
+### Melting point 298-300 °C (subl.) (lit.)
+### Boiling point 137.07°C (rough estimate)
+### Density 1.62
+### vapor pressure:  1.7 mm Hg ( 165 °C)
+### storage temp. Store below +30°C.
+### solubility:  95% ethanol: soluble0.46g/10 mL, clear, colorless
+### Water Solubility:  0.63 g/100 mL (25 ºC)
+### form:  Fine Crystalline Powder
+### pka: 3.02, 4.38(at 25℃)
+### color: White
+### PH  3.19(1 mM solution);2.57(10 mM solution);2.03(100 mM solution);
+### Odor:  odorless
+
+![fumaric acid molecule](../images/fumaricacid.png)
+
 * Cleaning and safety  
 * Category Description: Products used for cleaning or safety in an occupational or industrial setting (e.g. industrial cleaning supplies or laundry detergent, eye wash, spill kits)  
 * buffering  
@@ -13,8 +28,9 @@ Fumaric Acid
 * Painting (Pigments, Binders, and Biocides) \[Category: Paint\]  
 * Textiles (Printing, Dyeing, or Finishing) \[Category: Industry\]  
 * Permitted for use as an inert ingredient in non-food pesticide products; \[EPA\] Used as a processing aid foods; \[FDA\] Used for foam control; \[Emerald Performance Materials MSDS\]  
-* Fumaric acid is used primarily in liquid pharmaceutical preparations as an acidulant and flavoring agent. Fumaric acid may be included as the acid part of effervescent tablet formulations, although this use is limited as the compound has an extremely low solubility in water. It is also used as a chelating agent which exhibits synergism when used in combination with other true antioxidants. In the design of novel pelletized formulations manufactured by extrusion-spheronization, fumaric acid was used to aid spheronization, favoring the production of fine pellets. It has also been investigated as an alternative filler to lactose in pellets. Fumaric acid has been investigated as a lubricant for effervescent tablets, and copolymers of fumaric acid and sebacic acid have been investigated as bioadhesive microspheres. It has also been used in film-coated pellet formulations as an acidifying agent and also to increase drug solubility. Fumaric acid is also used as a food additive at concentrations up to 3600 ppm, and as a therapeutic agent in the treatment of psoriasis and other skin disorders.  
-* ![fumaric acid](../images/image1.png)
+* Fumaric acid is used primarily in liquid pharmaceutical preparations as an acidulant and flavoring agent. Fumaric acid may be included as the acid part of effervescent tablet formulations, although this use is limited as the compound has an extremely low solubility in water. It is also used as a chelating agent which exhibits synergism when used in combination with other true antioxidants. In the design of novel pelletized formulations manufactured by extrusion-spheronization, fumaric acid was used to aid spheronization, favoring the production of fine pellets. It has also been investigated as an alternative filler to lactose in pellets. Fumaric acid has been investigated as a lubricant for effervescent tablets, and copolymers of fumaric acid and sebacic acid have been investigated as bioadhesive microspheres. It has also been used in film-coated pellet formulations as an acidifying agent and also to increase drug solubility. Fumaric acid is also used as a food additive at concentrations up to 3600 ppm, and as a therapeutic agent in the treatment of psoriasis and other skin disorders.
+  
+* ![fumaric acid chart](../images/fumaricacidchart.png)
 
 * Fortifier in paper size resins, unsaturated polyester resins, and alkyd surface coating resins; miscellaneous applications; acidulant in gelatin desserts and dry beverage powders; chemical intermediate for plasticizers including dibutyl fumarate.  
     

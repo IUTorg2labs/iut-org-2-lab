@@ -1,5 +1,20 @@
 Iso Amyl Alcohol
 
+### Chemical formula    C5H12O
+### Molar mass  88.148 g/mol
+### Appearance  Clear, colorless liquid
+### Odor    Disagreeable odor in high concentrations
+### Density 0.8104 g/cm3 at 20 °C
+### Melting point   −117 °C (−179 °F; 156 K)
+### Boiling point   131.1 °C (268.0 °F; 404.2 K)
+### Solubility in water Slightly soluble, 28 g/L
+### Very soluble in acetone, diethyl ether, ethanol
+### Vapor pressure  28 mmHg (20 °C)
+### Magnetic susceptibility (χ) −68.96·10−6 cm3/mol
+### Viscosity   3.692 mPa·s
+
+![isoamylalcohol](../images/isoamylalcohole.png)
+
 * Flavouring  
 * Fragrance  
 * fragrance component  

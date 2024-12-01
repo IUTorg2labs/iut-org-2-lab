@@ -1,4 +1,16 @@
 Acetic Anhydride  
+
+### Chemical formula    C4H6O3
+### Molar mass  102.089 g·mol−1
+### Appearance:  colorless liquid
+### Density 1.082 g cm−3, liquid
+### Melting point:   −73.1 °C (−99.6 °F; 200.1 K)
+### Boiling point:   139.8 °C (283.6 °F; 412.9 K)
+### Solubility in water: 2.6 g/100 mL, reacts (see text)
+### Vapor pressure:  4 mmHg (20 °C)
+
+![acetic anhydride molecule](../images/aceticanhydridemolecule.png)
+
 * Home maintenance \-\> caulk/sealant  
 * Flavoring and nutrient  
 * Soil amendments (fertilizers)  

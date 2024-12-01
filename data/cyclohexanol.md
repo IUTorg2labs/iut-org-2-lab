@@ -1,5 +1,19 @@
 Cyclohexanol
 
+### Chemical formula  C6H12O
+### Molar mass  100.158 g/mol
+### Appearance:  Colorless, viscous liquid.
+### Hygroscopic
+### Odor:  camphor-like
+### Density 0.9624 g/mL, liquid
+### Melting point 25.93 °C (78.67 °F; 299.08 K)
+### Boiling point 161.84 °C (323.31 °F; 434.99 K)
+### Solubility in water: 3.60 g/100 mL (20 °C) 4.3 g/100 mL (30 °C)
+### Solubility:  soluble in ethanol, ethyl ether, acetone, chloroform,miscible with ethyl acetate, linseed oil, benzene
+### Vapor pressure:  1 mmHg (20°C)
+
+![cyclohexanol molecule](../images/cyclohexanolmolecule.png)
+
 * Cleaning products and household care \-\> drain products
 
 Category Description: Products poured down, or placed in, drains to control odors or clear blockages that work by chemical or biological processes

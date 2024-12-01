@@ -1,6 +1,7 @@
 Soaps (different kinds and stuff)
 
-![A list of chemical formulasDescription automatically generated](../images/image3.png) 
+
+![A list of materials used](../images/image3.png) 
 ![A close up of a bowl of white substanceDescription automatically generated](../images/image4.png) 
 ![A group of blue barrelsDescription automatically generated](../images/image5.png)  
 ![A close up of a bowl of white powderDescription automatically generated](../images/image6.png)  

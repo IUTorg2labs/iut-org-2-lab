@@ -1,37 +1,82 @@
 NaOCl (Sodium Hypochlorite)
 
+### Chemical formula    NaOCl
+### Molar mass  74.442 g/mol
+### Appearance  
+White crystalline solid (anhydrous);
+Colorless or slightly yellow  or greenish-yellow crystalline solid (pentahydrate)
+### Odor    Chlorine-like and sweetish (pentahydrate)
+### Density 1.11 g/cm3
+### Melting point   18 °C (64 °F; 291 K) (pentahydrate)
+### Boiling point   101 °C (214 °F; 374 K) (decomposes) (pentahydrate)
+### Solubility in water 29.3 g/(100 mL) (0 °C)
+### Acidity (pKa)   7.5185
+### Basicity (pKb)  6.4815
+
+![sodiumhypochloratemolecule](../images/sodiumhypochloratemolecule.png)
+
 | Cleaning and safety |
-| :---- |
+
 | Cleaning products and household care \-\> air freshener |
+
 | Cleaning products and household care \-\> bathroom \-\> bathroom cleaner |
+
 | Cleaning products and household care \-\> dishwasher and dishes \-\> automatic dishwashing detergent |
+
 | Cleaning products and household care \-\> drain products |
+
 | Cleaning products and household care \-\> general household cleaning |
+
 | Cleaning products and household care \-\> general household cleaning \-\> bleach |
+
 | Cleaning products and household care \-\> general household cleaning \-\> disinfectant |
+
 | Cleaning products and household care \-\> general household cleaning \-\> surface cleaner |
+
 | Cleaning products and household care \-\> laundry and fabric treatment \-\> laundry detergent |
+
 | Cleaning products and household care \-\> laundry and fabric treatment \-\> laundry stain remover |
+
 | Home maintenance \-\> paint/stain and related products \-\> paint |
+
 | Home maintenance \-\> paint/stain and related products \-\> stripper |
+
 | Landscape/yard \-\> pool chemicals \-\> chlorine and bromine |
+
 | Personal care \-\> hair styling and care \-\> hair conditioner |
+
 | Personal care \-\> make-up and related |
+
 | Raw materials |
+
 | Sports equipment \-\> skiing |
+
 | Vehicle \-\> boat care and maintenance \-\> boat cleaner \- general |
+
 | active ingredient |
+
 | active ingredient, cleaning agent, bleaching agent, whitening agent |
+
 | antimicrobial active |
+
 | biocide |
+
 | bleach |
+
 | bleach precursor |
+
 | bleaching agent |
+
 | bleaching agent |
+
 | bleaching-oxidizing agent |
+
 | chemical reaction modifier |
+
 | oxidizing agent |
+
 | prevents spotting |
+
 | process aid |
 
 * Used as a disinfectant and bleaching agent with applications in the chemical, paper, textile, water treatment, and dairy industries; it is used to disinfectant water in swimming pools and cooling towers of power plants. \[HSDB\] 5% solution used as a hypo eliminator in photo development; \[www.ci.tucson.az.us/arthazards/medium.html\] Used in the EU on mushroom crops; Also used in the paint, lime, glass, pharmaceutical, metal (detoxify cyanide baths), and synthetics industries  

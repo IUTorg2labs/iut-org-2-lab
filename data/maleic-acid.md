@@ -1,5 +1,16 @@
 Maleic Acid
 
+### Chemical formula  C4H4O4
+### Molar mass  116.072 g·mol−1
+### Appearance  White solid
+### Density 1.59 g/cm3 
+### Melting point 135 °C (275 °F; 408 K) (decomposes)
+### Solubility in water 478.8 g/L at 20 C
+### Acidity (pKa) pka1 = 1.90 pka2 = 6.07 
+### Magnetic susceptibility (χ) -49.71·10−6 cm3/mol
+
+![maleicacidmolecule](../images/maleicacidmolecule.png)
+
 * Cleaning products and household care \-\> bathroom \-\> bathroom cleaner  
 * Cleaning products and household care \-\> general household cleaning \-\> bleach  
 * Buffering  

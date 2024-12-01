@@ -1,5 +1,14 @@
 Aspirin (Acetyl Salicylic Acid)
  
+### Formula C9H8O4
+### Molar mass  180.159 g·mol−1
+### Density 1.40 g/cm3
+### Melting point:  135 °C (275 °F)
+### Boiling point:   140 °C (284 °F) (decomposes)
+### Solubility in water: 3 g/L
+
+![aspirin molecule](../images/aspirin.png)
+
 * Personal care \-\> hair styling and care \-\> hair conditioner \- leave-in  
 * Personal care \-\> shaving and hair removal  
 * Personal care \-\> shaving and hair removal \-\> aftershave  

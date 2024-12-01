@@ -1,5 +1,18 @@
 4-NitroAniline  
       
+### Chemical Formula: C6H6N2O2
+### Flash Point: 390°F (NTP, 1992)
+### Autoignition Temperature: 356°F (NTP, 1992)
+### Melting Point: 298°F (NTP, 1992)
+### Vapor Pressure: 0.0015 mmHg at 68°F ; 0.007 mmHg at 86°F (NTP, 1992)
+### Vapor Density (Relative to Air): 4.77 (NTP, 1992) - Heavier than air; will sink
+### Specific Gravity: 1.44 at 68°F (USCG, 1999) - Denser than water; will sink
+### Boiling Point: 637°F at 760 mmHg (NTP, 1992)
+### Molecular Weight: 138.14 (NTP, 1992)
+### Water Solubility: less than 0.1 mg/mL at 70°F (NTP, 1992)
+
+![4-nitroaniline](../images/4-nitroaniline.png)
+      
 * Used in the production of dyes, antioxidants, gasoline gum inhibitors, and corrosion inhibitors; \[ACGIH\]  
 * p-Nitroaniline is used as an intermediate in the manufacture of dyes, antioxidants, pharmaceuticals, and pesticides.  
 * chem int for antioxidants, dyes, pigments, gasoline gum inhibitors  

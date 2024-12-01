@@ -1,70 +1,136 @@
-Urea
-(CO(NH₂)₂)
+Urea (CO(NH₂)₂)
+
+### Molar mass: 60.06 g/mol.
+### Appearance: Colorless to white crystalline solid.
+### Density: 1.32 g/cm³.
+### Melting point: 134°C.
+### Solubility: Easily soluble in water and alcohol.
+### Odor: Odorless.
+### Insoluble in ethane.
+### Weak base.
+
+![ureamolecule](../images/ureamolecule.png)
 
 | Cleaning products and household care \-\> dishwasher and dishes \-\> dish soap |
-| :---- |
+
+
 | Cleaning products and household care \-\> drain products |
+
 | Cleaning products and household care \-\> general household cleaning \-\> disinfectant |
+
 | Cleaning products and household care \-\> laundry and fabric treatment \-\> laundry detergent |
+
 | Construction and building materials |
+
 | Electronics/small appliances \-\> computers and accessories/supplies \-\> printer ink |
+
 | Furniture and furnishings |
+
 | Home maintenance \-\> paint/stain and related products \-\> paint |
+
 | Home maintenance \-\> septic system |
+
 | Landscape/yard \-\> herbicide |
+
 | Landscape/yard \-\> lawn fertilizer |
+
 | Landscape/yard \-\> plants and garden \-\> garden fertilizer |
+
 | Manufactured formulations \-\> Flame retardants |
+
 | Other indirect contact consumer goods |
+
 | Personal care |
+
 | Personal care \-\> body hygiene \-\> body wash |
+
 | Personal care \-\> body hygiene \-\> hand soap |
+
 | Personal care \-\> dental care \-\> toothpaste |
+
 | Personal care \-\> deodorant |
+
 | Personal care \-\> facial cleansing and moisturizing \-\> face cream/moisturizer |
+
 | Personal care \-\> facial cleansing and moisturizing \-\> face mask |
+
 | Personal care \-\> foot care |
+
 | Personal care \-\> general moisturizing \-\> hand/body lotion |
+
 | Personal care \-\> hair styling and care \-\> hair conditioner |
+
 | Personal care \-\> hair styling and care \-\> hair conditioner \- leave-in |
+
 | Personal care \-\> hair styling and care \-\> hair spray |
+
 | Personal care \-\> hair styling and care \-\> shampoo |
+
 | Personal care \-\> make-up and related \-\> lip balm |
+
 | Personal care \-\> make-up and related \-\> lip liner |
+
 | Personal care \-\> shaving and hair removal \-\> depilatory |
+
 | Personal care \-\> specialized bath products \-\> bubble bath |
+
 | Pesticides \-\> insecticide |
+
 | Pet care \-\> all pets \-\> other pet treatments |
+
 | Pet care \-\> fish |
+
 | Raw materials |
+
 | Specialty occupational products \-\> Firefighting foam |
+
 | Vehicle \-\> engine maintenance \-\> auto fluids and additives |
+
 | antistatic / humectant / skin conditioning |
+
 | antistatic agent |
+
 | binder component |
+
 | board |
+
 | buffering agent |
+
 | builder |
+
 | chelating agent |
+
 | door leaf, bottom rail, top rail: thin mdf |
+
 | flame retardant |
+
 | formaldehyde scavenger |
+
 | fragrance component |
+
 | freeze-thaw stability |
-| hdf slats: component \#3 |
+
 | humectant |
+
 | hydrotrope |
+
 | pH regulating agent |
+
 | particleboard core component |
-| ph regulating agent |
+
 | reagent |
+
 | scavenger |
+
 | skin conditioning agent |
+
 | skin-conditioning agent \- humectant |
+
 | softener and conditioner |
+
 | solubility enhancer |
 
-* A compound (CO(NH2)2), formed in the liver from ammonia produced by the deamination of amino acids. It is the principal end product of protein catabolism and constitutes about one half of the total urinary solids. \[ChemIDplus\] Used as a mordant in textile dyeing; \[www.ci.tucson.az.us/arthazards/medium.html\] Used to make fertilizer, feed additives, urea-formaldehyde resins and pharmaceuticals; Humans excrete 20-35 grams per day and have blood levels of 200-400 mg/L.  
+* A compound (CO(NH2)2), formed in the liver from ammonia produced by the deamination of amino acids. It is the principal end product of protein catabolism and constitutes about one half of the total urinary solids. \[ChemIDplus\] Used as a mordant in textile dyeing; \ Used to make fertilizer, feed additives, urea-formaldehyde resins and pharmaceuticals; Humans excrete 20-35 grams per day and have blood levels of 200-400 mg/L.  
 * Condensed with malonic ester to form barbituric acid; cellulose softener.  
 * LIQUID & OTHER FERTILIZER APPLICATIONS; LIVESTOCK NUTRIENT; MONOMER FOR UREA-FORMALDEHYDE RESINS; CHEMICAL INTERMEDIATE FOR MELAMINE  
 * Urea is a decomposition inhibitor for ammonium perchlorate  

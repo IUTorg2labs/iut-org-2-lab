@@ -1,5 +1,17 @@
 Acetic Acid
 
+### Chemical formula  CH3COOH
+### Molar mass  60.052 g·mol−1
+### Appearance:  Colourless liquid
+### Odor:  Heavily vinegar-like
+### Density: 1.049 g/cm3 (liquid); 1.27 g/cm3 (solid)
+### Melting point: 16 to 17 °C; 61 to 62 °F; 289 to 290 K
+### Boiling point: 118 to 119 °C; 244 to 246 °F; 391 to 392 K
+### Solubility in water: Miscible
+### Vapor pressure  1.54653947 kPa (20 °C), 11.6 mmHg (20 °C)
+### Acidity (pKa): 4.756
+### Conjugate base:  Acetate
+
 ![acetic acid molecule](../images/aceticacidmolecule.png)
 
 | Arts and crafts/office supplies \-\> general arts and crafts supplies \-\> arts and crafts adhesive 
@@ -80,7 +92,7 @@ Acetic Acid
 | pH control |
 | refining agents (must be eliminated during process of manufacturing) |
 
-* Used to manufacture acetic anhydride and other organic chemicals used in the plastic, pharmaceutical, dye, insecticide, textile, rubber, and photographic industries; \[ACGIH\] Used in photography (stop bath); \[www.ci.tucson.az.us/arthazards/medium.html\] Used as a wet etchant in semiconductor manufacturing at standard concentrations of 36% or 99.5%; \[CSH, p. 46\] Used in the bating and tanning stages of leather production
+* Used to manufacture acetic anhydride and other organic chemicals used in the plastic, pharmaceutical, dye, insecticide, textile, rubber, and photographic industries; \[ACGIH\] Used in photography (stop bath); \ Used as a wet etchant in semiconductor manufacturing at standard concentrations of 36% or 99.5%; \[CSH, p. 46\] Used in the bating and tanning stages of leather production
 
 * Semiconductor Manufacturing   
 * Textiles (Fiber & Fabric Manufacturing)   
