@@ -25,7 +25,7 @@ Aspirin (Acetyl Salicylic Acid)
     
 * The U.S. Food and Drug Administration (FDA) classifies aspirin as FDA Pregnancy Category D; there is a known risk to the fetus when the drug is used during pregnancy, but potential benefits may sometimes outweigh the risk. California Proposition 65 lists aspirin as a chemical known to cause developmental effects and reproductive harm.  
     
-* Methods of Manufacturing  
+ ## Methods of Manufacturing  
 * Acetylsalicylic acid is prepared by reacting acetic anhydride with salicylic acid at a temperature of \<90 °C either in a solvent (e.g., acetic acid or aromatic, acyclic, or chlorinated hydrocarbons) or by the addition of catalysts such as acids or tertiary amines.  
 * Impurities  
 * 4-hydroxybenzoic acid; 4-hydroxybenzene-1,3-dicarboxylic acid (4-hydroxyisophthalic acid); salicylic acid; 2-\[\[2-(acetyloxy)benzoyl\]oxy\]benzoic acid (acetylsalicylsalicylic acid); 2-\[(2-hydroxybenzoyl)oxy\]benzoic acid (salicylsalicylic acid); 2-(acetyloxy)benzoic anhydride (acetylsalicylic anhydride)

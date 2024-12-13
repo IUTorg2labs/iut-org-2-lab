@@ -98,7 +98,7 @@ Colorless or slightly yellow  or greenish-yellow crystalline solid (pentahydrate
 * Anti-infective (topical) /sodium hypochlorite soln/  
 * Sodium hypochlorite is frequently used as a disinfectant or a bleaching agent.
 
-Methods of Manufacturing
+## Methods of Manufacturing
 
 * Sanfourche, Gardent, Bull Soc Chim (4) 35, 1089 (1924); Schmeisser in Handbook of Preparative Inorganic Chemistry Vol 1, G Brauer, ed (Academic Press, NY, 2nd ed, 1963\) pp 309-310. Anhydrous sodium hypochlorite may be obtained by freeze-drying in vacuum (over concn sulfuric acid). Addition of chlorine to cold dilute solution of sodium hydroxide.  
 * Soln of sodium hypochlorite containing 0.45-0.50 g of the salt in 100 ml. Prepd by diluting with distilled water a soln of sodium hypochlorite, adding a 5% soln of sodium bicarbonate, nad adjusting to proper strength and concn according to procedure described in N.F. May be prepared also from 15.4 g chlorinated lime (30% available chlorine), 7.7 g anhydrous sodium carbonate, and 6.4 g sodium bicarbonate per liter; this soln is then adjusted ... /Sodium hypochlorite soln, diluted/

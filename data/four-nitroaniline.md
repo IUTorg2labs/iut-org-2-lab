@@ -20,7 +20,7 @@
 * used as an intermediate for producing p-phenylenediamine.  
 * The volume outlet for 4-nitroaniline is in iron reduction or catalytic hydrogenation to produce p-phenylenediamine.
 
-  Methods of Manufacturing
+ ##  Methods of Manufacturing
 
 * AMMONOLYSIS OF P-NITROCHLOROBENZENE; OR BY NITRATION OF ACETANILIDE FOLLOWED BY HYDROLYSIS.  
 * FROM ACETANILIDE; ... BY SCHMIDT REACTION.  

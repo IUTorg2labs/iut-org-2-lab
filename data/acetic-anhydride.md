@@ -25,7 +25,7 @@ Acetic Anhydride
 * Pesticide intermediate.  
 * To reduce heroin availability, the United Nations (UN) has encouraged nations to control acetic anhydride, an essential ("precursor") chemical typically necessary to the drug's production.
 
-Methods of Manufacturing
+## Methods of Manufacturing
 
 * Acetic anhydride can be obtained directly by liquid-phase oxidation of acetaldehyde. The peracetic acid formed from oxygen and acetaldehyde reacts under suitable conditions with a second molecule of acetaldehyde to form acetic anhydride and water. Rapid removal of the reaction water and the use of suitable catalysts are essential in this process. Mixtures of acetic acid and acetic anhydride are always obtained; their ratio can be varied within wide limits by changing the reaction conditions. Generally, the highest possible anhydride yield is sought.  
 * The ketene process for the production of acetic anhydride proceeds in two steps: the thermal cleavage of acetic acid to form ketene and the reaction of ketene with acetic acid.

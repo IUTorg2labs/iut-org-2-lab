@@ -148,7 +148,7 @@ Urea (CO(NH₂)₂)
 * As urea-formaldehyde resins, urea-clathrates in petroleum-refining industry for production jet aviation fuels, and for dewaxing aviation fuels.  
 * Urea is dehydrated and condensed to produce melamine  
 * Urea is a building block for amino resins.  
-* Methods of production  
+##  Methods of production  
 *  from ammonia, carbon monoxide and sulfur in methanol.  
 * Liquid ammonia and liquid carbon dioxide at 1750-3000 psi and 160-200 °C react to form ammonium carbamate, NH4CO2NH2, which decomposes at lower pressure (about 80 psi) to urea and water. Method of purification: crystallization.  
 * Pure urea should not give the biuret reaction unless heated above melting point. In practice all reagent grade urea gives positive biuret reaction.  

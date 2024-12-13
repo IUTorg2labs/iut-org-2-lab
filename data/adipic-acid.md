@@ -51,7 +51,7 @@ Adipic Acid
 * addition to foods imparts a smooth, tart taste. In grape-flavored products, it adds a lingering supplementary flavor and gives an excellent set to food powders containing gelatin ... For concentrations /of adipic acid ranging/ from 0.5-2.4 g/100 mL, the pH ... varies less than half a unit. ... pH is low enough to inhibit browning of most fruits and other foodstuffs.  
 * 
 
-Methods of Manufacturing
+## Methods of Manufacturing
 
 * Commercially important processes ... employ two major reaction stages. The first reaction stage is the production of the intermediates cyclohexanone and cyclohexanol, usually abbreviated as KA, KA oil, ol-one, or anone-anol. The KA (ketone, alcohol), after separation from unreacted cyclohexane (which is recycled) and reaction by-products, is then converted to adipic acid by oxidation with nitric acid.  
 * Two companies Verdezyne and Rennovia are developing bio-based adipic acid production. Verdezyne uses genetically modified enzymes to ferment glucose to adipic acid. ... Rennovia uses air oxidation to convert glucose to glucaric acid, followed by hydrodeoxygenation to convert glucaric acid to adipic acid.  

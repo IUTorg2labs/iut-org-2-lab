@@ -26,7 +26,7 @@ Maleic Acid
 * Maleic anhydride, maleic acid, and fumaric acid are multifunctional chemical intermediates that find applications in nearly every field of industrial chemistry.  
 * Coumarin is formed by reaction of phenol with malic, maleic, or fumaric acids in the presence of concentrated sulfuric acid.  
 * This is an endogenously produced metabolite found in the human body. It is used in metabolic reactions, catabolic reactions or waste generation.  
-  Methods of Manufacturing  
+ ##  Methods of Manufacturing  
   * Prepared by the catalytic oxidation of benzene over vanadium pentoxide.  
   * Vapor-phase oxidation of n-butane or n-butylene in air over a solid catalyst.  
   * Maleic acid is produced by the hydration of maleic anhydride.

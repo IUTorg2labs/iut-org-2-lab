@@ -47,7 +47,7 @@ Category Description: Products for removing grease and other hydrophobic materi
 
 * Cleaning agent
 
-  Methods of Manufacturing
+ ##  Methods of Manufacturing
 
 
 * Cyclohexanol can be prepared in high yield by either vapor- or liquid-phase hydrogenation of phenol. Vapor-phase hydrogenation can be carried out by using a supported nickel catalyst or a nickel catalyst containing copper, cobalt, or manganese. The support is usually alumina or silicic acid. Yields as high as 98% have been reported. ... Commercial liquid-phase hydrogenation of phenol under mild conditions with a palladium on carbon catalyst gives greater than 99% yield of cyclohexanone at 90% conversion. By adjusting the operating conditions and changing to a Raney nickel catalyst, 99.9% selectivity for cyclohexanol can be achieved.

@@ -29,7 +29,7 @@ Iso Amyl Acetate
 * It is the main component of banana aroma and is, therefore, also used in banana flavors.  
 * Repellent against dogs and cats for ornamental vegetation .... Insecticides and miticides to combat wasps and bees.
 
-Methods of Manufacturing
+## Methods of Manufacturing
 
 * Usually prepared by esterification of commercial isoamyl alcohol with acetic acid.  
 * Rectification of commercial amyl acetate.

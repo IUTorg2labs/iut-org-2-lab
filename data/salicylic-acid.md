@@ -4,13 +4,13 @@ Salicylic Acid
 ### The taste of salicylic acid is acrid.
 ### The boiling point and melting point of salicylic acid are 211oC and 315oC respectively.
 ### The salicylic acid molecule has two hydrogen bond donors and three hydrogen bond acceptors.
-### The flashpoint of salicylic acid is 157oC.
+### The flashpoint of salicylic acid is 157°C.
 ### Salicylic acid is soluble in organic solvents like carbon tetrachloride, benzene, propanol, ethanol and acetone.
-### The density of salicylic acid is 1.44 at 20oC.
-### Its vapour pressure is 8.2×105mmHg at 25oC.
+### The density of salicylic acid is 1.44 at 20°C.
+### Its vapour pressure is 8.2×105mmHg at 25°C.
 ### It is a tendency to undergo discolouration when exposed to direct sunlight due to its photochemical degradation.
 ### Upon degradation, it emits irritating fumes and acrid smelling smoke.
-### Its heat of combustion is3.026mj/mole at 25oC.
+### Its heat of combustion is3.026mj/mole at 25°C.
 ### The pH of a saturated solution of salicylic acid is 2.4.
 ### Its pka value i.e., dissociation constant is 2.97.
 
@@ -187,7 +187,7 @@ Salicylic Acid
 * Acanthosis nigricans can be dealt with by using lotions or creams containing salicylic acid  
 * Key additive in many skin-care products for the treatment of acne, psoriasis, callouses, corns, keratosis pilaris and warts.  
 * Acanthosis nigricans can be dealt with by using lotions or creams containing salicylic acid  
-* Methods of Manufacturing  
+##  Methods of Manufacturing  
 * Salicylic acid is prepared on an industrial scale by the Kolbe-Schmitt synthesis from dry sodium phenoxide in a stream of carbon dioxide at 150-160 °C and a pressure of 5 bar. The use of pressure results in a yield of about 90%, whereas without pressure the yield does not exceed 50% because disodium salicylate and phenol are formed in equivalent amounts.  
 * Technical-grade salicylic acid obtained from the Kolbe-Schmitt process is already extremely pure: salicylic acid content 99.5%; phenol, p-hydroxybenzoic acid, or 4-hydroxyisophthalic acid 0.05 \- 0.1% (as impurity); ash \< 0.1%; water 0.2%. An even higher quality acid (pharmaceutical grade) can be obtained by crystallizing the sodium salicylate from water at a temperature not exceeding 20 °C, or by sublimation of the acid at 20 mbar and a temperature of 154 °C or with the aid of a carrier gas. A more modern process achieves sublimation directly by utilizing the heat of neutralization from the reaction of sodium salicylate with hydrogen chloride.  
 * REACTION OF DRY, POWDERED SODIUM PHENATE WITH EXCESS CARBON DIOXIDE TO PRODUCE SODIUM SALICYLATE SOLUTION, WHICH IS ACIDIFIED TO OBTAIN SALICYLIC ACID  

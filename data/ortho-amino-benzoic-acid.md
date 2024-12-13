@@ -21,7 +21,7 @@ Ortho Amino Benzoic Acid (Anthranilic acid)
 * THERAP CAT (VET): The cadmium salt has been used as an acaricide in swine  
 * Enhances the milk production in cows. ... Intermediate for dyes. ... Intermediate for tranquilizers and antiphlogistics.  
 * Naturally produced by the body (endogenous).  
-  Methods of Manufacturing  
+  ## Methods of Manufacturing  
 * prepared by fischer in 1896 by heating 2-nitrosobenzoic acid with aq ammonium sulfide @ 100 °c...produced commercially by hofmann reaction, in which phthalimide is reacted with sodium hypochlorite & caustic soda...  
 * prepared by reduction of o-nitrobenzoic acid  
 * treatment of phthalimide with an alkaline hypobromite soln.  

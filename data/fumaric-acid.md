@@ -37,7 +37,7 @@ Fumaric Acid
 *   
   * Fumaric acid is naturally produced by the body, however for industrial applications it is synthesized chemically. Fumaric acid is used to impart a tart taste to processed foods. It is also used as an antifungal agent in boxed foods such as cake mixes and flours, as well as tortillas. Fumaric acid is also added to bread to increase the porosity of the final baked product. It is used to impart a sour taste to sourdough and rye bread. In cake mixes, it is used to maintain a low pH and prevent clumping of the flours used in the mix. In fruit drinks, fumaric acid is used to maintain a low pH which, in turn, helps to stabilize flavor and color. Fumaric acid also prevents the growth of E. coli in beverages when used in combination with sodium benzoate. When added to wines, fumaric acid helps to prevent further fermentation and yet maintain low pH and eliminate traces of metallic elements. In this fashion, it helps to stabilize the taste of wine. Fumaric acid can also be added to dairy products, sports drinks, jams, jellies and candies. Fumaric acid helps to break down bonds between gluten proteins in wheat and helps to create a more pliable dough. Fumaric acid is used in paper sizing, printer toner, and polyester resin for making molded walls.
 
-Methods of Manufacturing
+## Methods of Manufacturing
 
 * Commercially, fumaric acid may be prepared from glucose by the action of fungi such as Rhizopus nigricans, as a by-product in the manufacture of maleic and phthalic anhydrides, and by the isomerization of maleic acid using heat or a catalyst. On the laboratory scale, fumaric acid can be prepared by the oxidation of furfural with sodium chlorate in the presence of vanadium pentoxide.  
     
